@@ -1,0 +1,25 @@
+.mybox {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  /* padding: 20px 100px 50px 1px; */
+  /* border-width: 5px;
+  border-color: black;
+  border-style: solid; */
+  border: 5px black solid;
+  margin: 20px;
+}
+
+.mybox2 {
+  display: block;
+  background-color: blue;
+  color: azure;
+  width: 50%;
+}
+
+.span {
+  display: inline-block;
+  background-color: green;
+  margin: 20px;
+}

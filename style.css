@@ -1,0 +1,41 @@
+* {
+  color: saddlebrown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+h3 {
+
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*.header {
+  color: blueviolet;
+}
+*/
+
+.box1 {
+  color: blue;
+}
+
+.box2 {
+  color: pink;
+}
+
+#box3 {
+  color: gold;
+}
+
+p.box4 {
+  color: bisque;
+}
+
+div.order {
+  color: darkkhaki;
+}
+
+.order {
+  color: aqua;
+}
